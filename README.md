@@ -1,16 +1,22 @@
-### Hi there 👋
+# Abdul Rafay Ahmad - Front-End Developer
 
-<!--
-**abdulraffy54/abdulraffy54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub page! I am a Front-End Developer with a passion for creating beautiful, responsive and user-friendly websites. With over [number of years] years of experience in the industry, I have worked on various projects and gained expertise in HTML, CSS, JS, and Tailwind CSS.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+
+## Projects
+
+Here are some of the projects that I have worked on:
+
+- Project 1: [link to project]
+- Project 2: [link to project]
+- Project 3: [link to project]
+
+## Contact
+
+If you have any queries or would like to discuss any project, feel free to reach out to me on my email [email address]. You can also find me on [LinkedIn/Twitter/other social media platform]. Thank you for visiting my page!
