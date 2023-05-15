@@ -1,6 +1,6 @@
-![banner](https://user-images.githubusercontent.com/110650837/233710924-9aa0069f-5cc1-4341-892e-b584fecf0459.png)
+![banner](https://github.com/abdulraffy54/abdulraffy54/assets/110650837/d38b6081-04b8-4ea7-8e0e-89f5fe60e06d)
 
-Welcome! I am a Front-End Developer with a passion for creating beautiful, responsive and user-friendly websites. With over 1.5 years of experience in the developing practice projects, I have worked on various practice projects and gained expertise in HTML, CSS, JS, and Tailwind CSS.
+Welcome! I am a Front-End Engineer with a passion for creating beautiful, responsive and user-friendly websites. With over 1.5 years of experience in the developing practice projects, I have worked on various practice projects and gained expertise in HTML, CSS, JS, and Tailwind CSS.
 
 ## Tech Stack
 
